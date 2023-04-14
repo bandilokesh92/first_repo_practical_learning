@@ -1,3 +1,3 @@
 # Demo practice
 
-I am learning the git for the first time.
+I am learning the git for the first time :)
